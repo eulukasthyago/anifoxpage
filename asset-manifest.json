@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/anifoxpage/static/css/main.5f361e03.chunk.css",
+    "main.js": "/anifoxpage/static/js/main.154cecfd.chunk.js",
+    "main.js.map": "/anifoxpage/static/js/main.154cecfd.chunk.js.map",
+    "runtime-main.js": "/anifoxpage/static/js/runtime-main.06fd1620.js",
+    "runtime-main.js.map": "/anifoxpage/static/js/runtime-main.06fd1620.js.map",
+    "static/js/2.d4538808.chunk.js": "/anifoxpage/static/js/2.d4538808.chunk.js",
+    "static/js/2.d4538808.chunk.js.map": "/anifoxpage/static/js/2.d4538808.chunk.js.map",
+    "index.html": "/anifoxpage/index.html",
+    "precache-manifest.dc3fd2770e0252b6ef815ad79955aae6.js": "/anifoxpage/precache-manifest.dc3fd2770e0252b6ef815ad79955aae6.js",
+    "service-worker.js": "/anifoxpage/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/anifoxpage/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d4538808.chunk.js.LICENSE.txt": "/anifoxpage/static/js/2.d4538808.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/anifoxpage/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06fd1620.js",
+    "static/js/2.d4538808.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.154cecfd.chunk.js"
+  ]
+}
