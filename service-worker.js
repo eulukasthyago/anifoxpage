@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/anifoxpage/precache-manifest.dc3fd2770e0252b6ef815ad79955aae6.js"
+  "/anifoxpage/precache-manifest.ec661842b193475789af5049e9d6f336.js"
 );
 
 self.addEventListener('message', (event) => {

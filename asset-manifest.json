@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/anifoxpage/static/css/main.5f361e03.chunk.css",
-    "main.js": "/anifoxpage/static/js/main.154cecfd.chunk.js",
-    "main.js.map": "/anifoxpage/static/js/main.154cecfd.chunk.js.map",
-    "runtime-main.js": "/anifoxpage/static/js/runtime-main.06fd1620.js",
-    "runtime-main.js.map": "/anifoxpage/static/js/runtime-main.06fd1620.js.map",
-    "static/js/2.d4538808.chunk.js": "/anifoxpage/static/js/2.d4538808.chunk.js",
-    "static/js/2.d4538808.chunk.js.map": "/anifoxpage/static/js/2.d4538808.chunk.js.map",
+    "main.css": "/anifoxpage/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/anifoxpage/static/js/main.66125912.chunk.js",
+    "main.js.map": "/anifoxpage/static/js/main.66125912.chunk.js.map",
+    "runtime-main.js": "/anifoxpage/static/js/runtime-main.8aa578b3.js",
+    "runtime-main.js.map": "/anifoxpage/static/js/runtime-main.8aa578b3.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/anifoxpage/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.83cb56f0.chunk.js": "/anifoxpage/static/js/2.83cb56f0.chunk.js",
+    "static/js/2.83cb56f0.chunk.js.map": "/anifoxpage/static/js/2.83cb56f0.chunk.js.map",
     "index.html": "/anifoxpage/index.html",
-    "precache-manifest.dc3fd2770e0252b6ef815ad79955aae6.js": "/anifoxpage/precache-manifest.dc3fd2770e0252b6ef815ad79955aae6.js",
+    "precache-manifest.ec661842b193475789af5049e9d6f336.js": "/anifoxpage/precache-manifest.ec661842b193475789af5049e9d6f336.js",
     "service-worker.js": "/anifoxpage/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/anifoxpage/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.d4538808.chunk.js.LICENSE.txt": "/anifoxpage/static/js/2.d4538808.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/anifoxpage/static/media/logo.5d5d9eef.svg"
+    "static/css/2.af3c1da9.chunk.css.map": "/anifoxpage/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/anifoxpage/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.83cb56f0.chunk.js.LICENSE.txt": "/anifoxpage/static/js/2.83cb56f0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.06fd1620.js",
-    "static/js/2.d4538808.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.154cecfd.chunk.js"
+    "static/js/runtime-main.8aa578b3.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.83cb56f0.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.66125912.chunk.js"
   ]
 }
